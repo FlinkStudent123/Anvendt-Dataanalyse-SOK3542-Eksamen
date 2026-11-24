@@ -1,0 +1,34 @@
+"13877: Employed persons per 4th quarter, by region, age, industry (SIC2007), year, sex and type of appointment"
+"region";"age";"industry (SIC2007)";"Employed persons by place of residence 2025 Both sexes Total"
+"31 Østfold";"15-74 years";"00-99 All industries";147297
+"31 Østfold";"15-74 years";"05-09 Mining and quarrying";467
+"32 Akershus";"15-74 years";"00-99 All industries";385135
+"32 Akershus";"15-74 years";"05-09 Mining and quarrying";3366
+"03 Oslo - Oslove";"15-74 years";"00-99 All industries";404399
+"03 Oslo - Oslove";"15-74 years";"05-09 Mining and quarrying";3058
+"34 Innlandet";"15-74 years";"00-99 All industries";183946
+"34 Innlandet";"15-74 years";"05-09 Mining and quarrying";670
+"33 Buskerud";"15-74 years";"00-99 All industries";136054
+"33 Buskerud";"15-74 years";"05-09 Mining and quarrying";901
+"39 Vestfold";"15-74 years";"00-99 All industries";125032
+"39 Vestfold";"15-74 years";"05-09 Mining and quarrying";1173
+"40 Telemark";"15-74 years";"00-99 All industries";84651
+"40 Telemark";"15-74 years";"05-09 Mining and quarrying";1565
+"42 Agder";"15-74 years";"00-99 All industries";156695
+"42 Agder";"15-74 years";"05-09 Mining and quarrying";2939
+"11 Rogaland";"15-74 years";"00-99 All industries";264797
+"11 Rogaland";"15-74 years";"05-09 Mining and quarrying";27211
+"46 Vestland";"15-74 years";"00-99 All industries";344020
+"46 Vestland";"15-74 years";"05-09 Mining and quarrying";14411
+"15 Møre og Romsdal";"15-74 years";"00-99 All industries";138281
+"15 Møre og Romsdal";"15-74 years";"05-09 Mining and quarrying";3860
+"50 Trøndelag - Trööndelage";"15-74 years";"00-99 All industries";250832
+"50 Trøndelag - Trööndelage";"15-74 years";"05-09 Mining and quarrying";3739
+"18 Nordland - Nordlánnda";"15-74 years";"00-99 All industries";121784
+"18 Nordland - Nordlánnda";"15-74 years";"05-09 Mining and quarrying";1809
+"55 Troms - Romsa - Tromssa";"15-74 years";"00-99 All industries";90849
+"55 Troms - Romsa - Tromssa";"15-74 years";"05-09 Mining and quarrying";978
+"56 Finnmark - Finnmárku - Finmarkku";"15-74 years";"00-99 All industries";39084
+"56 Finnmark - Finnmárku - Finmarkku";"15-74 years";"05-09 Mining and quarrying";1097
+"21 Svalbard";"15-74 years";"00-99 All industries";0
+"21 Svalbard";"15-74 years";"05-09 Mining and quarrying";0
