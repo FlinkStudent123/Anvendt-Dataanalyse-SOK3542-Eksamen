@@ -1,0 +1,275 @@
+"13470: Sysselsatte per 4. kvartal, etter næring (SN2007), år og region"
+"næring (SN2007)";"Sysselsatte personer etter bosted 2025 F-31 Østfold";"Sysselsatte personer etter bosted 2025 F-32 Akershus";"Sysselsatte personer etter bosted 2025 F-03 Oslo - Oslove";"Sysselsatte personer etter bosted 2025 F-34 Innlandet";"Sysselsatte personer etter bosted 2025 F-33 Buskerud";"Sysselsatte personer etter bosted 2025 F-39 Vestfold";"Sysselsatte personer etter bosted 2025 F-40 Telemark";"Sysselsatte personer etter bosted 2025 F-42 Agder";"Sysselsatte personer etter bosted 2025 F-11 Rogaland";"Sysselsatte personer etter bosted 2025 F-46 Vestland";"Sysselsatte personer etter bosted 2025 F-15 Møre og Romsdal";"Sysselsatte personer etter bosted 2025 F-50 Trøndelag - Trööndelage";"Sysselsatte personer etter bosted 2025 F-18 Nordland - Nordlánnda";"Sysselsatte personer etter bosted 2025 F-55 Troms - Romsa - Tromssa";"Sysselsatte personer etter bosted 2025 F-56 Finnmark - Finnmárku - Finmarkku"
+"01.1 Dyrking av ettårige vekster";845;813;93;1497;656;684;280;351;587;325;190;902;164;48;37
+"01.2 Dyrking av flerårige vekster";24;50;20;46;66;48;57;28;76;196;32;36;9;6;3
+"01.3 Planteformering";24;36;25;19;10;37;22;61;27;13;3;22;0;0;0
+"01.4 Husdyrhold";390;435;69;2723;542;315;367;791;2117;2205;1082;2641;1180;566;556
+"01.5 Kombinert husdyrhold og planteproduksjon";143;85;5;272;53;66;28;40;154;130;46;186;58;25;14
+"01.6 Tjenester tilknyttet jordbruk og etterbehandling av vekster etter innhøsting";317;441;106;1386;198;275;196;279;1628;738;346;1244;349;156;52
+"01.7 Jakt, viltstell og tjenester tilknyttet jakt og viltstell";0;0;3;3;0;0;3;0;3;6;3;3;0;0;3
+"01.0u Jordbruk, tilhør. tjenester, jakt, ufordelt";129;130;4;449;108;97;58;131;533;312;164;470;171;67;20
+"02.1 Skogskjøtsel og andre skogbruksaktiviteter";57;69;11;227;79;22;51;54;21;36;31;63;15;3;0
+"02.2 Avvirkning";166;348;106;932;348;153;299;400;42;150;74;364;108;49;0
+"02.3 Innsamling av viltvoksende produkter av annet enn tre";0;0;0;0;0;0;0;3;0;0;0;3;0;0;0
+"02.4 Tjenester tilknyttet skogbruk";70;186;54;517;240;56;105;190;51;114;33;156;59;12;19
+"02.0u Skogbruk og tilhørende tjenester, ufordelt";18;18;5;67;22;9;9;18;0;12;3;21;3;0;0
+"03.1 Fiske og fangst";48;33;31;6;6;51;30;130;196;541;522;280;741;503;891
+"03.2 Akvakultur";39;187;155;42;32;27;70;162;725;3387;1537;2486;2519;1318;821
+"03.0u Fiske, fangst og akvakultur, ufordelt";55;42;53;15;14;33;20;168;238;1021;1462;267;1017;573;539
+"05.1 Bryting av steinkull";0;3;6;3;3;0;0;0;0;6;6;13;9;10;0
+"05.2 Bryting av brunkull";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06.1 Utvinning av råolje";117;1343;1528;113;178;277;776;634;10258;6224;736;1557;416;484;183
+"06.2 Utvinning av naturgass";3;14;23;3;6;9;10;17;1270;126;353;37;48;15;478
+"07.1 Bryting av jernmalm";0;0;3;0;0;3;0;0;6;0;0;3;368;0;27
+"07.2 Bryting av ikke-jernholdig malm";0;3;5;0;0;0;0;11;237;92;0;0;3;0;10
+"08.1 Bryting av stein, utvinning av sand og leire";109;188;41;309;191;199;153;124;589;267;150;287;367;53;81
+"08.9 Annen bryting og utvinning";6;10;6;9;3;4;9;22;14;32;90;0;0;39;125
+"09.1 Tjenester tilknyttet utvinning av råolje og naturgass";232;1805;1446;228;519;681;614;2128;14837;7651;2529;1832;597;372;189
+"09.9 Tjenester tilknyttet annen bergverksdrift";0;0;3;3;3;3;0;3;0;13;0;3;0;0;8
+"10.1 Produksjon, bearbeiding og konservering av kjøtt og kjøttvarer";1402;458;309;996;286;1091;37;197;1726;807;276;1425;271;193;95
+"10.2 Bearbeiding og konservering av fisk, skalldyr og bløtdyr";50;267;169;93;15;58;21;92;641;1799;2432;2266;2321;1433;971
+"10.3 Bearbeiding og konservering av frukt og grønnsaker";110;336;36;382;250;257;28;92;52;40;10;134;0;38;0
+"10.4 Produksjon av vegetabilske og animalske oljer og fettstoffer";237;56;69;3;6;0;3;3;8;32;310;77;27;57;3
+"10.5 Produksjon av meierivarer og iskrem";68;789;808;987;56;70;48;400;689;528;388;985;95;202;36
+"10.6 Produksjon av kornvarer, stivelse og stivelsesprodukter";87;186;92;47;27;53;48;3;62;81;6;43;0;0;0
+"10.7 Produksjon av bakeri- og pastavarer";507;807;1026;823;466;407;445;590;785;942;328;808;245;348;120
+"10.8 Produksjon av andre næringsmidler";597;543;667;173;230;391;39;290;274;520;350;581;107;110;11
+"10.9 Produksjon av fôrvarer";198;39;15;277;19;47;3;9;685;300;192;370;277;116;0
+"11.0 Produksjon av drikkevarer";126;843;662;103;143;155;71;188;162;418;99;167;39;130;9
+"12.0 Produksjon av tobakksvarer";9;3;0;0;0;0;0;0;0;0;0;0;0;0;0
+"13.1 Bearbeiding og spinning av tekstilfibrer";0;0;19;6;0;3;7;0;122;22;56;5;0;0;0
+"13.2 Veving av tekstiler";0;3;4;82;3;0;0;3;0;114;18;0;0;0;0
+"13.3 Etterbehandling av tekstiler";12;24;21;0;7;6;32;0;15;15;0;23;7;0;0
+"13.9 Produksjon av andre tekstiler";121;143;61;102;46;37;31;168;228;355;457;300;173;105;14
+"14.1 Produksjon av klær, unntatt pelsvarer";100;212;201;76;69;33;50;61;105;161;116;102;20;27;24
+"14.2 Produksjon av pelsvarer";0;3;0;0;0;0;3;3;0;0;0;0;0;0;3
+"14.3 Produksjon av klær av trikotasje";0;9;9;3;0;6;3;6;8;103;12;7;3;0;6
+"15.1 Beredning av lær, produksjon av reiseeffekter og salmakerartikler og beredning og farging av pelsskinn";7;12;3;12;6;3;6;3;30;3;0;3;6;0;0
+"15.2 Produksjon av skotøy";0;0;0;3;0;0;0;0;3;6;0;0;0;0;0
+"16.1 Saging, høvling og impregnering av tre";42;205;12;1200;279;249;136;236;38;89;130;394;6;6;3
+"16.2 Produksjon av varer av tre, kork, strå og flettematerialer";221;288;94;1936;371;274;101;1500;984;843;286;819;327;108;12
+"17.1 Produksjon av papirmasse, papir og papp";450;93;56;3;208;18;34;34;0;0;0;643;3;3;0
+"17.2 Produksjon av varer av papir og papp";394;39;6;6;168;7;3;18;56;6;40;156;4;0;0
+"18.1 Trykking og tjenester tilknyttet trykking";261;723;461;193;129;121;104;186;338;411;109;184;68;73;31
+"18.2 Reproduksjon av innspilte opptak";3;3;6;0;0;3;0;0;0;3;0;3;0;0;0
+"19.1 Produksjon av kullprodukter";0;0;0;3;3;0;0;0;0;0;0;0;0;0;0
+"19.2 Produksjon av raffinerte petroleumsprodukter";0;0;0;3;3;0;3;0;6;1016;0;7;6;0;6
+"20.1 Produksjon av kjemiske råvarer mv.";1177;621;559;67;44;91;1511;242;160;366;355;707;523;18;3
+"20.2 Produksjon av plantevern- og skadedyrmidler og andre landbrukskjemiske produkter";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20.3 Produksjon av maling og lakk, trykkfarger og tetningsmidler";6;16;14;10;45;897;50;10;14;46;56;14;3;6;0
+"20.4 Produksjon av såpe og vaskemidler, rense- og polermidler, parfyme og toalettartikler";176;85;101;0;11;129;14;3;27;54;3;3;11;0;0
+"20.5 Produksjon av andre kjemiske produkter";50;393;199;221;80;147;36;6;19;25;68;15;17;3;0
+"20.6 Produksjon av kunstfibrer";0;0;3;0;0;0;0;0;0;19;0;0;0;0;0
+"21.1 Produksjon av farmasøytiske råvarer";3;7;7;0;0;0;0;530;6;0;0;0;3;0;0
+"21.2 Produksjon av farmasøytiske preparater";670;635;784;131;76;30;138;72;6;18;3;124;3;45;0
+"22.1 Produksjon av gummiprodukter";124;34;19;41;211;23;6;25;53;25;3;6;0;0;0
+"22.2 Produksjon av plastprodukter";372;215;40;260;337;167;267;331;95;498;466;306;247;210;62
+"23.1 Produksjon av glass og glassprodukter";214;107;39;138;63;97;6;303;76;40;113;76;14;18;6
+"23.2 Produksjon av ildfaste produkter";0;0;0;0;0;0;0;0;0;0;0;8;0;0;0
+"23.3 Produksjon av byggevarer av brent leire";0;0;3;0;0;0;0;0;3;0;0;0;3;0;0
+"23.4 Produksjon av andre porselensprodukter og keramiske produkter";46;13;11;6;3;9;8;3;78;49;43;21;6;3;0
+"23.5 Produksjon av sement, kalk og gips";11;27;20;3;3;10;201;3;3;20;0;78;132;0;0
+"23.6 Produksjon av betong-, sement- og gipsprodukter";263;269;76;134;700;113;237;280;753;489;247;667;144;119;84
+"23.7 Hogging og bearbeiding av monument- og bygningsstein";32;50;15;44;11;114;12;31;25;38;129;79;3;17;4
+"23.9 Produksjon av ikke-metallholdige mineralprodukter ikke nevnt annet sted";191;118;79;158;91;94;229;240;21;99;99;206;247;89;65
+"24.1 Produksjon av jern og stål, samt ferrolegeringer";28;6;4;0;0;7;190;248;208;191;0;3;668;154;0
+"24.2 Produksjon av andre rør og rørdeler av stål";24;0;0;9;0;4;52;10;51;90;18;16;0;5;0
+"24.3 Annen bearbeiding av jern og stål";3;3;0;0;0;0;0;0;0;0;0;9;6;0;0
+"24.4 Produksjon av ikke-jernholdige metaller";9;263;373;758;47;519;45;1187;1072;2338;1002;35;762;0;0
+"24.5 Støping av metaller";9;0;6;207;0;12;143;40;21;3;43;5;3;7;0
+"25.1 Produksjon av metallkonstruksjoner";634;329;89;355;374;552;248;423;964;980;737;547;241;55;13
+"25.2 Produksjon av tanker, cisterner og andre beholdere av metall";80;18;6;18;0;0;0;33;131;35;59;59;9;0;0
+"25.3 Produksjon av dampkjeler, unntatt kjeler til sentralvarmeanlegg";19;0;0;0;0;0;0;145;10;0;0;0;0;0;0
+"25.4 Produksjon av våpen og ammunisjon";114;256;131;1496;2724;217;302;9;12;38;10;6;3;0;3
+"25.5 Smiing, stansing og valsing av metall, og pulvermetallurgi";0;22;3;0;0;0;0;12;0;75;6;10;0;0;0
+"25.6 Overflatebehandling og bearbeiding av metaller";405;397;93;432;399;608;485;380;1767;987;472;498;477;97;29
+"25.7 Produksjon av kjøkkenredskaper, skjære- og klipperedskaper, håndverktøy og andre jernvarer";14;54;16;22;45;36;3;3;28;196;74;16;33;31;0
+"25.9 Produksjon av andre metallvarer";82;152;93;452;130;172;83;234;570;276;993;165;53;12;3
+"26.1 Produksjon av elektroniske komponenter og kretskort";18;183;125;365;51;476;9;558;6;12;3;469;0;0;0
+"26.2 Produksjon av datamaskiner og tilleggsutstyr";0;28;19;0;3;3;0;0;150;4;30;9;0;0;0
+"26.3 Produksjon av kommunikasjonsutstyr";12;282;200;12;70;209;21;122;223;23;3;271;3;6;0
+"26.4 Produksjon av elektronikk til husholdningsbruk";28;3;0;0;0;3;72;0;0;0;0;0;0;3;0
+"26.5 Produksjon av måle-, kontroll- og navigasjonsinstrumenter, og klokker og ur";111;579;398;50;1321;1569;165;182;469;443;63;751;3;8;0
+"26.6 Produksjon av strålingsutstyr, elektromedisinsk og elektroterapeutisk utstyr";3;6;9;0;9;193;0;3;0;3;0;0;0;0;0
+"26.7 Produksjon av optiske instrumenter og fotografisk utstyr";0;3;0;6;3;10;0;0;16;0;0;83;0;0;0
+"26.8 Produksjon av magnetiske og optiske media";0;0;3;6;0;0;0;0;0;0;0;0;0;0;0
+"27.1 Produksjon av elektromotorer, generatorer, transformatorer og elektriske fordelings- og kontrolltavler og paneler";92;87;51;163;148;111;1108;6;322;464;344;579;16;29;3
+"27.2 Produksjon av batterier og akkumulatorer";0;7;29;0;3;0;3;123;165;185;0;12;3;3;0
+"27.3 Produksjon av ledninger og ledningsmateriell";1157;301;354;39;289;57;173;12;95;10;3;6;327;0;0
+"27.4 Produksjon av belysningsutstyr";21;32;28;20;6;3;29;11;6;17;366;28;4;0;41
+"27.5 Produksjon av husholdningsmaskiner og -apparater";224;21;18;67;131;7;3;0;9;6;6;51;0;0;3
+"27.9 Produksjon av annet elektrisk utstyr";60;133;76;29;125;208;136;31;332;137;70;184;0;3;0
+"28.1 Produksjon av maskiner og utstyr til generell bruk";181;424;141;66;684;90;58;243;525;2843;533;226;25;4;3
+"28.2 Produksjon av andre maskiner og annet utstyr til generell bruk";339;328;154;355;323;98;66;563;645;453;1672;197;214;22;19
+"28.3 Produksjon av jordbruks- og skogbruksmaskiner";25;15;16;12;6;12;7;24;618;93;28;146;10;3;0
+"28.4 Produksjon av maskiner til metallbearbeiding og annet maskinverktøy";47;6;3;9;3;38;3;3;3;9;6;93;0;0;0
+"28.9 Produksjon av andre spesialmaskiner";198;108;72;242;139;138;85;1553;635;317;920;350;111;31;0
+"29.1 Produksjon av motorvogner";0;3;6;0;6;17;0;0;7;0;5;0;0;0;0
+"29.2 Produksjon av karosserier og tilhengere";47;79;14;68;91;126;25;112;55;127;139;179;21;29;0
+"29.3 Produksjon av deler og utstyr til motorvogner";213;86;15;726;302;78;3;19;35;3;0;35;0;6;0
+"30.1 Bygging av skip og båter";62;232;147;30;918;147;212;842;3655;4300;2829;1520;115;88;9
+"30.2 Produksjon av lokomotiver og annet rullende materiell til jernbane og sporvei";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30.3 Produksjon av luftfartøyer og romfartøyer og lignende utstyr";3;9;8;0;332;7;56;0;0;0;0;4;0;0;0
+"30.4 Produksjon av militære stridskjøretøyer";0;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+"30.9 Produksjon av transportmidler ikke nevnt annet sted";0;9;3;106;0;3;28;0;18;0;0;6;0;3;0
+"31.0 Produksjon av møbler";100;390;215;259;407;124;62;402;206;294;1439;454;45;55;0
+"32.1 Produksjon av gull- og sølvvarer, bijouteri og lignende artikler";20;73;55;15;28;58;22;34;30;137;6;14;3;10;31
+"32.2 Produksjon av musikkinstrumenter";3;3;10;9;0;3;3;0;3;0;0;10;3;3;0
+"32.3 Produksjon av sportsartikler";3;42;48;132;24;13;24;6;3;3;0;3;0;3;0
+"32.4 Produksjon av spill og leker";0;3;9;3;0;0;0;7;0;3;0;0;0;0;0
+"32.5 Produksjon av medisinske og tanntekniske instrumenter og utstyr";109;250;256;172;61;107;22;126;631;224;16;83;101;66;6
+"32.9 Industriproduksjon ikke nevnt annet sted";39;68;24;73;51;45;21;30;19;88;26;49;25;3;7
+"33.1 Reparasjon av metallvarer, maskiner og utstyr";927;1818;550;863;653;600;1264;1080;2684;3907;1020;1150;1037;534;268
+"33.2 Installasjon av industrimaskiner og -utstyr";81;393;391;74;97;37;106;107;474;516;148;103;80;23;11
+"35.1 Produksjon, overføring og distribusjon av elektrisitet";337;1775;2435;1274;852;398;1056;1076;1248;2521;882;1560;1337;405;447
+"35.2 Produksjon av gass og distribusjon av gass gjennom ledningsnett";3;17;3;11;3;26;11;3;75;6;7;15;0;0;0
+"35.3 Damp- og varmtvannsforsyning";36;94;88;123;57;20;16;19;3;25;30;115;18;34;3
+"36.0 Uttak fra kilde, rensing og distribusjon av vann";162;419;312;186;132;100;66;169;117;478;197;137;185;115;43
+"37.0 Oppsamling og behandling av avløpsvann";244;665;169;496;176;140;141;129;360;322;132;145;67;75;6
+"38.1 Innsamling av avfall";428;697;421;627;284;224;223;361;440;864;368;739;439;306;199
+"38.2 Behandling og disponering av avfall";154;156;189;111;156;19;87;134;184;173;57;186;46;20;16
+"38.3 Materialgjenvinning";369;760;390;159;262;491;130;123;541;464;221;163;251;79;23
+"39.0 Miljørydding, miljørensing og lignende virksomhet";9;15;13;6;3;9;3;7;92;42;3;6;9;0;3
+"41.1 Utvikling av byggeprosjekter";234;1059;1091;309;453;260;167;298;454;639;166;399;147;127;19
+"41.2 Oppføring av bygninger";3562;9022;5126;4478;3774;3017;1931;4345;5195;7361;3077;6514;2673;1923;920
+"42.1 Bygging av veier og jernbaner";882;2312;1385;2011;1337;706;1241;1640;1318;2872;873;2423;1500;618;389
+"42.2 Bygging av vann- og kloakkanlegg, og anlegg for elektrisitet og telekommunikasjon";562;1048;488;407;310;281;190;454;288;599;231;417;352;141;139
+"42.9 Bygging av andre anlegg";10;35;4;25;50;24;15;44;39;134;58;33;76;17;8
+"43.1 Riving og grunnarbeid";1837;2431;615;3612;1728;1502;1405;1882;3006;3470;1700;2954;1728;1294;726
+"43.2 Elektrisk installasjonsarbeid, VVS-arbeid og annet installasjonsarbeid";4146;9271;5240;4153;3651;3110;1956;4094;5640;7839;2836;6149;2921;1962;828
+"43.3 Ferdiggjøring av bygninger";1362;3797;2744;1476;1218;1244;614;1267;1649;2001;793;1676;715;495;221
+"43.9 Annen spesialisert bygge- og anleggsvirksomhet";1588;2669;1588;1224;1273;1051;778;1571;2271;3216;795;2058;692;390;100
+"45.1 Handel med motorvogner, unntatt motorsykler";1177;3043;1570;1190;1277;746;787;999;1194;1424;734;1579;615;588;330
+"45.2 Vedlikehold og reparasjon av motorvogner, unntatt motorsykler";1988;4159;1527;2677;1727;1517;886;1637;2358;3133;1519;2751;1308;915;353
+"45.3 Handel med deler og utstyr til motorvogner, unntatt motorsykler";645;1228;403;495;485;421;246;484;480;586;283;595;178;207;57
+"45.4 Handel med motorsykler, deler og utstyr. Vedlikehold og reparasjon av motorsykler";91;111;50;92;18;41;36;56;49;98;16;57;38;21;24
+"46.1 Agenturhandel";112;780;565;48;174;106;23;50;91;150;61;97;51;54;9
+"46.2 Engroshandel med jordbruksråvarer og levende dyr";154;568;130;269;150;83;24;55;95;172;86;260;58;44;18
+"46.3 Engroshandel med nærings- og nytelsesmidler";1122;3841;3196;736;643;721;181;665;1210;2079;806;1347;414;536;54
+"46.4 Engroshandel med husholdningsvarer og varer til personlig bruk";1557;6059;5294;765;1200;1117;359;1066;988;1427;632;1003;307;278;58
+"46.5 Engroshandel med IKT-utstyr";422;1660;1302;202;364;774;212;168;512;418;199;259;53;74;27
+"46.6 Engroshandel med andre maskiner og annet utstyr";1810;6092;2598;1565;1796;1399;696;934;2632;2710;1139;1903;684;463;157
+"46.7 Engroshandel med spesialisert vareutvalg ellers";1358;4723;2376;1695;1215;1565;651;1368;2167;2115;1127;1788;628;454;206
+"46.9 Uspesifisert engroshandel";579;520;277;123;70;200;85;173;159;138;77;115;60;28;14
+"47.1 Butikkhandel med bredt vareutvalg";3550;8649;7734;4809;3669;3517;2592;4590;6474;8897;3778;6311;3564;2674;1069
+"47.2 Butikkhandel med nærings- og nytelsesmidler i spesialforretninger";468;1615;1639;356;432;356;199;566;785;941;437;702;301;167;59
+"47.3 Detaljhandel med drivstoff til motorvogner";343;798;443;838;479;388;346;453;534;905;288;749;541;269;195
+"47.4 Butikkhandel med IKT-utstyr i spesialforretninger";71;237;276;120;89;49;40;90;146;199;49;177;72;67;15
+"47.5 Butikkhandel med andre husholdningsvarer i spesialforretninger";2188;4745;3236;2282;2025;1477;1164;2135;3213;3758;1732;2881;1604;990;504
+"47.6 Butikkhandel med bøker, musikkartikler og andre fritidsartikler i spesialforretninger";656;1795;1729;906;777;601;435;813;1112;1448;642;1154;597;411;178
+"47.7 Annen butikkhandel i spesialforretninger";3047;7894;7481;3314;3009;2522;1648;3306;4762;5839;2375;4112;2182;1620;542
+"47.8 Torghandel";21;16;31;6;10;4;6;3;9;21;13;7;19;0;6
+"47.9 Detaljhandel utenom utsalgssted";431;1221;1547;224;518;539;120;625;564;642;147;424;98;70;21
+"49.1 Passasjertransport med jernbane";364;774;817;311;425;166;82;89;184;252;13;248;59;0;0
+"49.2 Godstransport med jernbane";29;76;40;37;29;8;25;24;3;21;0;36;48;0;0
+"49.3 Annen landtransport med passasjerer";1545;5027;5435;1821;1295;906;740;1591;2158;4252;1161;2877;1131;1246;423
+"49.4 Godstransport på vei, herunder flyttetransport";1861;4097;1757;2905;1637;1449;1157;1625;2719;3405;1544;3128;1066;931;447
+"49.5 Rørtransport";0;0;0;0;0;0;0;0;246;10;0;3;0;0;0
+"50.1 Sjøfart og kysttrafikk med passasjerer";233;372;535;105;144;902;179;584;698;1737;1205;653;1012;621;205
+"50.2 Sjøfart og kysttrafikk med gods";123;300;440;55;74;219;92;256;1045;2275;1560;782;506;399;99
+"50.3 Passasjertransport på elver og innsjøer";0;0;0;3;0;0;11;0;0;0;0;0;0;0;0
+"50.4 Godstransport på elver og innsjøer";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"51.1 Lufttransport med passasjerer";113;1237;949;143;165;312;54;133;549;621;97;278;713;146;15
+"51.2 Lufttransport med gods samt romfart";0;22;13;0;3;13;5;9;10;13;9;9;64;17;14
+"52.1 Lagring";304;643;232;41;83;97;64;10;104;60;39;29;111;36;16
+"52.2 Andre tjenester tilknyttet transport";1415;7366;4076;1029;804;1300;416;1065;2692;3743;1410;1821;2051;1103;691
+"53.1 Landsdekkende posttjenester";440;1948;1952;464;335;289;177;402;558;698;339;631;441;239;115
+"53.2 Andre post- og budtjenester";390;1235;1449;327;436;272;168;275;467;505;135;452;176;182;56
+"55.1 Hotellvirksomhet";862;3556;3727;1949;1468;1041;672;1055;1758;3665;1223;2535;1633;1101;564
+"55.2 Drift av vandrerhjem og ferieleiligheter";17;80;133;156;76;58;62;75;92;189;59;96;226;108;74
+"55.3 Drift av campingplasser";37;21;23;207;81;48;67;106;63;165;103;94;138;94;38
+"55.9 Annen overnatting";6;23;34;12;3;6;3;10;17;8;3;22;14;3;22
+"56.1 Restaurantvirksomhet";2776;7913;13273;3251;2413;2313;1439;3450;5600;6714;2134;5431;2058;1926;521
+"56.2 Cateringvirksomhet og kantiner drevet som selvstendig virksomhet";407;2198;3210;330;485;271;261;557;1923;1610;409;797;279;223;143
+"56.3 Drift av barer";177;228;752;123;136;135;116;138;385;325;102;205;122;235;49
+"58.1 Utgivelse av bøker, tidsskrifter og annen forlagsvirksomhet";303;1303;3196;344;294;234;156;359;340;726;252;678;241;169;137
+"58.2 Utgivelse av programvare";414;1738;2689;198;356;466;251;201;478;961;215;953;195;140;12
+"59.1 Virksomhet innen film, video og fjernsynsprogrammer";189;771;2739;236;191;175;89;204;287;379;143;323;122;135;49
+"59.2 Produksjon og utgivelse av musikk- og lydopptak";48;157;421;44;33;43;12;29;29;71;26;53;16;13;9
+"60.1 Radiokringkasting";15;44;105;33;3;6;6;19;27;13;6;23;9;0;3
+"60.2 Fjernsynskringkasting";100;776;2401;84;149;68;51;63;73;735;55;268;85;89;115
+"61.1 Kabelbasert telekommunikasjon";103;1077;960;283;217;135;68;239;639;509;219;318;138;78;102
+"61.2 Trådløs telekommunikasjon";107;752;1190;219;68;128;152;234;537;53;16;275;56;13;12
+"61.3 Satellittbasert telekommunikasjon";9;196;187;18;32;27;6;127;81;10;94;16;12;409;3
+"61.9 Telekommunikasjon ellers";31;120;144;22;11;19;0;9;61;33;14;92;0;26;0
+"62.0 Tjenester tilknyttet informasjonsteknologi";2586;13530;23041;2058;2548;3045;937;2019;5989;5480;1368;4928;985;721;195
+"63.1 Databehandling, datalagring og tilknyttede tjenester, drift av web-portaler";215;1076;1496;202;193;229;114;151;637;330;46;220;21;49;3
+"63.9 Andre informasjonstjenester";9;128;320;9;22;19;3;9;6;19;6;21;3;3;0
+"64.1 Bankvirksomhet";842;4475;6281;1599;973;674;487;1185;1747;3505;1220;2687;541;562;79
+"64.2 Holdingselskaper";6;113;190;6;16;3;3;3;3;5;3;48;0;0;0
+"64.3 Verdipapirfond, investeringsselskaper o.l.";17;130;289;15;31;21;12;18;86;63;15;47;11;14;0
+"64.9 Annen finansieringsvirksomhet";47;541;821;110;163;91;22;51;90;101;118;290;86;65;35
+"65.1 Forsikring";614;2914;3637;547;376;244;143;289;136;2483;125;587;39;62;6
+"65.2 Gjenforsikring";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"65.3 Pensjonskasser";6;57;62;0;6;11;6;15;15;10;0;19;4;5;0
+"66.1 Tjenester tilknyttet finansieringsvirksomhet";106;1036;2054;60;145;74;18;49;171;167;44;285;3;55;0
+"66.2 Tjenester tilknyttet forsikringsvirksomhet og pensjonskasser";156;702;892;230;151;132;40;550;226;368;89;261;53;127;21
+"66.3 Fondsforvaltningsvirksomhet";21;409;858;3;26;23;6;12;218;153;6;52;0;3;0
+"68.1 Kjøp og salg av egen fast eiendom";134;309;347;80;81;78;43;73;145;187;107;142;45;33;3
+"68.2 Utleie av egen eller leid fast eiendom";856;2265;2440;899;697;747;429;713;1038;1934;712;1306;691;554;176
+"68.3 Omsetning og drift av fast eiendom på oppdrag";530;1891;2573;670;525;500;267;455;812;1208;369;1119;310;228;96
+"69.1 Juridisk tjenesteyting";259;1499;3793;239;252;284;101;282;533;774;175;401;160;192;42
+"69.2 Regnskap, revisjon og skatterådgivning";1421;3825;6251;1905;1494;1345;789;1571;2436;2749;1167;2384;1008;675;228
+"70.1 Hovedkontortjenester";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"70.2 Administrativ rådgivning";565;3081;5919;584;675;717;241;547;1202;1442;425;927;421;340;142
+"71.1 Arkitektvirksomhet og teknisk konsulentvirksomhet";2004;8576;11637;1908;2778;2086;1292;2503;5970;6686;2038;4831;1259;854;300
+"71.2 Teknisk prøving og analyse";366;1795;1097;267;311;289;178;238;1156;1165;338;887;355;173;83
+"72.1 Forskning og utviklingsarbeid innen naturvitenskap og teknikk";497;2757;4280;309;181;178;371;397;628;2011;269;3388;307;772;47
+"72.2 Forskning og utviklingsarbeid innen samfunnsvitenskap og humanistiske fag";42;293;961;9;30;20;35;26;25;284;34;157;39;29;4
+"73.1 Annonse- og reklamevirksomhet";491;1689;2918;289;343;357;131;297;506;650;206;493;171;142;25
+"73.2 Markeds- og opinionsundersøkelser";40;227;436;79;32;40;13;18;16;53;35;130;9;13;3
+"74.1 Spesialisert designvirksomhet";262;1104;1927;236;278;325;91;285;599;677;408;549;100;84;36
+"74.2 Fotografvirksomhet";138;359;678;121;90;124;58;119;167;244;103;195;94;55;26
+"74.3 Oversettelses- og tolkevirksomhet";157;352;702;78;111;121;88;200;183;229;49;170;58;36;20
+"74.9 Annen faglig, vitenskapelig og teknisk virksomhet";123;667;1086;146;152;201;78;158;316;384;191;390;102;53;13
+"75.0 Veterinærtjenester";269;627;343;395;165;194;137;169;313;424;174;356;196;148;44
+"77.1 Utleie og leasing av motorvogner";67;504;396;123;111;78;18;60;113;195;108;147;131;167;34
+"77.2 Utleie og leasing av husholdningsvarer og varer til personlig bruk";52;179;214;53;62;52;20;44;83;120;24;93;31;16;3
+"77.3 Utleie og leasing av andre maskiner, og annet utstyr og materiell";312;985;352;320;381;183;138;219;765;600;212;413;241;158;30
+"77.4 Leasing av immateriell eiendom og lignende produkter, unntatt opphavsrettsbeskyttede verker";43;265;450;19;27;31;21;52;63;51;15;53;13;6;0
+"78.1 Rekruttering og formidling av arbeidskraft";69;295;519;58;83;55;39;96;234;284;80;120;42;47;6
+"78.2 Utleie av arbeidskraft";1696;4302;4679;1027;1363;1237;722;1619;4078;4525;1569;2660;983;682;179
+"78.3 Andre personaladministrative tjenester";0;0;3;0;0;0;0;0;0;0;0;0;0;0;0
+"79.1 Reisebyrå- og reisearrangørvirksomhet";88;480;616;107;106;89;40;167;164;371;117;160;45;69;71
+"79.9 Annen arrangørvirksomhet og tilknyttede tjenester";91;164;368;130;73;63;55;152;219;431;157;190;231;443;74
+"80.1 Private vakttjenester";293;864;1424;274;197;217;186;307;706;968;405;652;347;304;171
+"80.2 Tjenester tilknyttet vakttjenester";309;1332;1233;155;236;313;82;106;271;371;40;105;33;36;3
+"80.3 Etterforsking";3;3;6;0;0;0;0;0;3;3;3;0;0;0;0
+"81.1 Kombinerte tjenester tilknyttet eiendomsdrift";1369;3131;2168;2254;1205;1102;858;1383;2059;2321;962;2283;1040;797;398
+"81.2 Rengjøringsvirksomhet";1289;4387;4814;1359;1422;1143;680;1189;2268;3110;1271;1941;926;736;247
+"81.3 Beplantning av hager og parkanlegg";367;736;262;257;398;412;159;345;469;447;97;236;87;30;24
+"82.1 Kontortjenester";114;551;732;80;97;71;44;97;231;232;27;189;31;38;24
+"82.2 Telefonvakttjenester og telefonsalg";538;435;863;118;101;125;248;229;44;310;74;376;41;9;9
+"82.3 Kongress-, messe- og utstillingsvirksomhet";17;343;486;36;32;39;21;28;51;35;11;53;11;14;0
+"82.9 Forretningsmessig tjenesteyting ikke nevnt annet sted";207;1280;1469;186;401;239;67;186;150;252;77;509;72;29;3
+"84.1 Offentlig administrasjon og forvaltning";4517;13595;17830;6502;3908;3373;2549;5064;6379;10294;3857;8092;5206;3237;1823
+"84.2 Offentlig administrasjon tilknyttet utenriks- og sikkerhetssaker";3611;12737;11642;5486;2657;3039;1415;2877;4050;7836;2013;5882;3367;4745;1713
+"84.3 Trygdeordninger underlagt offentlig forvaltning";1018;1764;2049;934;625;992;508;848;1095;1423;754;1391;902;551;426
+"85.1 Førskoleundervisning";0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+"85.2 Grunnskoleundervisning";6270;13019;11967;7625;5311;5098;3640;7333;10826;14064;5963;9238;5502;3537;1749
+"85.3 Undervisning på videregående skoles nivå";2427;4618;4101;2661;1821;1748;1323;2928;3991;4681;1799;3634;2317;1474;854
+"85.4 Undervisning i høyere utdanning";1446;5261;10393;2183;1084;1247;940;2170;2509;7235;1275;8229;1356;3505;368
+"85.5 Annen undervisning";1174;3285;3838;1862;1319;1349;761;1747;2131;2642;1147;2213;852;707;309
+"85.6 Tjenester tilknyttet undervisning";327;808;634;447;228;310;208;375;703;667;282;364;217;198;92
+"86.1 Sykehustjenester";5826;14812;19079;8274;5717;5349;4159;5934;9360;16843;5176;12776;6055;6095;1555
+"86.2 Lege- og tannlegetjenester";2181;5574;6485;2751;1880;1790;1111;2649;3930;5132;2061;3491;2099;1736;745
+"86.9 Andre helsetjenester";5249;10332;9147;6759;4766;4070;2972;5713;7105;11117;4474;8227;4332;3780;1333
+"87.1 Pleie- og omsorgstjenester i institusjon";4013;7290;5731;6627;3511;3572;2858;4427;6722;9949;4165;6388;4543;2970;1377
+"87.2 Institusjoner og bofellesskap innen omsorg for psykisk utviklingshemmede, psykisk helsearbeid og rusmiddelomsorg";2331;2787;2382;3449;1523;1481;924;1797;2511;5497;3224;1746;1081;968;651
+"87.3 Institusjoner og bofellesskap innen omsorg for eldre og funksjonshemmede";2531;4227;3002;3311;2144;2645;2079;2646;3283;3876;1844;4385;1924;1415;714
+"87.9 Andre omsorgsinstitusjoner";944;976;1169;767;549;414;440;824;747;1027;350;1046;351;504;144
+"88.1 Sosialtjenester uten botilbud for eldre og funksjonshemmede";1436;3390;3778;2483;1308;1537;694;1700;1827;3403;1586;2184;1876;871;483
+"88.9 Andre sosialtjenester uten botilbud";8665;20810;18427;9926;7152;6915;5065;9758;14143;17459;7390;13385;6364;4576;2200
+"90.0 Kunstnerisk virksomhet og underholdningsvirksomhet";903;2839;8031;922;681;726;455;927;1438;2353;515;1754;541;626;227
+"91.0 Drift av biblioteker, arkiver, museer og annen kulturvirksomhet";344;1073;2287;875;409;317;244;796;740;1421;375;992;810;284;209
+"92.0 Lotteri og totalisatorspill";57;116;137;455;53;33;41;45;11;34;30;49;24;27;7
+"93.1 Sportsaktiviteter";1277;4266;4703;1764;1375;989;682;1186;2463;2825;1105;1836;683;545;178
+"93.2 Fritidsaktiviteter og drift av fornøyelsesetablissementer";249;628;499;202;159;129;60;193;330;339;144;267;125;189;121
+"94.1 Næringslivs- og arbeidsgiverorganisasjoner og yrkessammenslutninger";76;981;1637;125;129;103;28;58;119;181;63;159;113;63;28
+"94.9 Aktiviteter i andre medlemsorganisasjoner";1110;2935;4921;1041;909;888;596;1599;1678;2105;805;1387;706;608;267
+"95.1 Reparasjon av datamaskiner og kommunikasjonsutstyr";29;105;127;177;22;41;18;73;49;83;25;37;15;12;6
+"95.2 Reparasjon av husholdningsvarer og varer til personlig bruk";104;301;195;100;84;101;46;111;139;161;46;121;60;31;11
+"96.0 Annen personlig tjenesteyting";1500;3748;3333;1717;1524;1198;831;1386;2474;3105;1124;2254;1092;772;302
+"97.0 Lønnet arbeid i private husholdninger";15;138;217;26;22;51;13;51;45;40;15;27;6;6;0
+"99.0 Internasjonale organisasjoner og organer";8;71;240;0;10;3;0;0;11;9;0;3;0;0;0
+"00.0 Uoppgitt";942;2744;3354;1261;862;937;566;1079;1357;1864;677;1413;586;418;235
